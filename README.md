@@ -17,11 +17,11 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/tree/master/icons/django" title="django" alt="django" width="40" height="40"/>&nbsp
-  <img src="https://docs.aiogram.dev/en/latest/_static/logo.png"  title="aiogram" alt="aiogram" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/tree/master/icons/sqlite" width="20px" height="20px" title="sqlite" alt="sqlite"/>&nbsp
-  <img src="https://github.com/devicons/devicon/tree/master/icons/postgresql" width="20px" height="20px" title="django" alt="django"/>&nbsp
-  <img src="https://github.com/devicons/devicon/tree/master/icons/docker" width="20px" height="20px" title="django" alt="django"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp
+  <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" width="40" height="40" title="aiogram" alt="aiogram"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"  title="sqlite" alt="sqlite"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" width="40" height="40" alt="postgresql"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="40" height="40" title="docker" alt="docker"/>&nbsp
 
 
 </div>
