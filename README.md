@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp
   <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" width="40" height="40" title="aiogram" alt="aiogram"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"  title="sqlite" alt="sqlite"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40"  title="sqlite" alt="sqlite"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" width="40" height="40" alt="postgresql"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="40" height="40" title="docker" alt="docker"/>&nbsp
 
@@ -36,7 +36,7 @@
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=YaroslavOrlov95&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YaroslavOrlov95&layout=compact&theme=vision-friendly-dark" />
+      <img height="170px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YaroslavOrlov95&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
