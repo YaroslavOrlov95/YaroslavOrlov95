@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :raising_hand_man: Обо мне:
 
 Я начинающий python разработчик<img src="https://i.gifer.com/5TMy.gif" width="20px">. Мой путь в it начался со Школы TEHNIKUM 2022 год (апрель), там я изучил самые основы языка python модуля telebot для создания телеграм-ботов и модуль django для web разработки. После двух месяцев на курсах начался период самостоятельного обучения
 
@@ -27,3 +27,16 @@
 </div>
 
 ---
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=YaroslavOrlov95&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YaroslavOrlov95&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
