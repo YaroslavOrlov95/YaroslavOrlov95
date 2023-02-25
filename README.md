@@ -11,6 +11,7 @@
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-yaroslav_540-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaroslav_540) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yaroslav.orlov1995@gmail.com)
 
+<img src="https://svgshare.com/i/qd0.svg">
 
 ### 💻 Технологии:
 
